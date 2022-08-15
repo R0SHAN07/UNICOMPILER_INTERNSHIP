@@ -1,5 +1,5 @@
 # UNICOMPILER_INTERNSHIP
-#TASK-2(NUMBER GUESSING)
+#TASK-1(NUMBER GUESSING)
 #TASK-1 
 import random
 a=random.randrange(1,101)
